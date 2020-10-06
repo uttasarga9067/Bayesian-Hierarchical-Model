@@ -13,3 +13,6 @@
 
 ##### Then, We are taking the log of both the variables (infant mortality and Income) for better and efficient computation.
 ##### For this model, we are using JAGS (Just another Gibbs Sampler) for efficient sampling of Markov Chains that we create while initializing the Model and passing the data set in the model.
+##### Below, we are plotting the convergence of our MCMC chains for the parameters or Co-effecients that we had initialized when building the model.
+
+![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/3.png)
