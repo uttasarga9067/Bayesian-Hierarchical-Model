@@ -25,3 +25,6 @@ In the Below screenshots, you can see that the results from the model are predic
 
 
 ![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/5.PNG)
+
+
+Download the whole Zip file of this Repository and open Bayesina-Hierarchical-Model(R) to look at the Code and provide your valuable inputs
