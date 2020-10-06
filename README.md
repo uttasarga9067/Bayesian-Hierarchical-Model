@@ -9,4 +9,4 @@
 ![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots/1.PNG)
 
 ##### Here is the screenshot for correlation between the variables
-![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/2.png)
+![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/2.png)
