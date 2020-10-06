@@ -10,3 +10,6 @@
 
 ##### Here is the screenshot for correlation between the variables
 ![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/2.png)
+
+##### Then, We are taking the log of both the variables (infant mortality and Income) for better and efficient computation.
+##### For this model, we are using JAGS (Just another Gibbs Sampler) for efficient sampling of Markov Chains that we create while initializing the Model and passing the data set in the model.
