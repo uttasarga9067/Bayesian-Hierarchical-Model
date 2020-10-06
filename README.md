@@ -1,5 +1,5 @@
 # Bayesian-Hierarchical-Model
-#### The Prediction Model was developed using SparkR(Azure Databricks to the rescue) and uses the Leinhardt Dataset from the CAR Package in R.
+#### I] The Prediction Model was developed using SparkR(Azure Databricks to the rescue) and uses the Leinhardt Dataset from the CAR Package in R.
 
 ##### About The Data Set
 
@@ -7,3 +7,6 @@
 2. We are calculating the infant mortality rate based on the other variables present in the dataset.
 
 ![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots/1.PNG)
+
+##### Here is the screenshot for correlation between the variables
+![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots/2.PNG)
