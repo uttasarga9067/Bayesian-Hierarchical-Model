@@ -6,4 +6,4 @@
 1. The Data set consists of 105 observed values of each of the 4 variables named income, infant mortality rate, region and Oil.
 2. We are calculating the infant mortality rate based on the other variables present in the dataset.
 
-![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/master/1.PNG)
+![ScreenShot](https://raw.github.com/uttasarga9067/screenshots/1.PNG)
