@@ -16,3 +16,12 @@
 ##### Below, we are plotting the convergence of our MCMC chains for the parameters or Co-effecients that we had initialized when building the model.
 
 ![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/3.png)
+
+The Convergence diagnostics are great as the Hierarchical regression model converged each co-eeficients that we are using for our Model.
+In the Below screenshots, you can see that the results from the model are predicted and stored in a vector format (y_hat). The Infant mortality rate(data1_jags$y) is predicted 92% to be accurate with our model prediction which means that the Infant mortatlity is dependent on the Income of the Families while looking at the geographical factors such as country, state or zip for much refined details.
+
+![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/4.png)
+
+
+
+![ScreenShot](https://raw.github.com/uttasarga9067/Bayesian-Hierarchical-Model/screenshots-1/5.png)
